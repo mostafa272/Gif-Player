@@ -1,0 +1,18 @@
+﻿<updates>
+	<update>
+		<name>Gif Player</name>
+		<description>A plugin for playing and stoping the GIF images.</description>
+		<element>plg_gifplayer</element>
+		<type>plugin</type>
+		<version>1.0</version>
+		<infourl title="Gif Player">https://github.com/mostafa272/Gif-Player/issues/1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/Gif-Player/raw/master/plg_gifplayer.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.0" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
